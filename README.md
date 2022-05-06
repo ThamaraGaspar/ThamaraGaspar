@@ -22,5 +22,5 @@
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamaraGaspar&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  <div>
-![ Animação de cobra ](https://github.com/ThamaraGaspar/ThamaraGaspar/blob/output/github-contribution-grid-snake.svg)
+![ Animação de cobra ](https:/github.com/ThamaraGaspar/ThamaraGaspar/blob/output/github-contribution-grid-snake.svg)
  </div>
