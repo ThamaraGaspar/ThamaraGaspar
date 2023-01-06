@@ -1,7 +1,6 @@
 <h1 align="center"> Seja bem vinda e bem vindo! </h1>
 <hr />
 <h2>Eu sou a Thamara :cherry_blossom:</h2>
- <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202205/338224_ldssxEfZ.png">
  <p>Atualmente estou morando em Porto/Portugal :portugal: </p>
  <p>Estou estudando desenvolvimento de software fullstack na @Trybe 💻:</p>
  <p>Aprendendo inglês na @INGLÊS WINNER 📚:</p>
