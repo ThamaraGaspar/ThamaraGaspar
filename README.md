@@ -4,7 +4,7 @@
  <p>Atualmente estou morando em Porto/Portugal :portugal: </p>
  <p>Estou estudando desenvolvimento de software fullstack na @Trybe 💻:</p>
  <p>Aprendendo inglês na @INGLÊS WINNER 📚:</p>
- <p>Fique a vontade para entrar em conato, ficarei muito feliz em poder ajudar :speech_balloon:;</p>
+ <p>Fique a vontade para entrar em contato, ficarei muito feliz em poder ajudar :speech_balloon:;</p>
  <a href="https://www.linkedin.com/in/thamaragaspar/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="50px" height="50px" target="_blank">
 </a>
